@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/book-bazaar-8881/bookbazaar_frontend"
+}
